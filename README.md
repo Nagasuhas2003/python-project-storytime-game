@@ -1,6 +1,7 @@
 # python-project-storytime-game
-It's fun terminal game which gives different stories based on your input .so to try giving random words and enjoy the story
-code explanation
+It's fun terminal game, which gives different stories based on your input .
+So try giving random words and enjoy the story.
+Code explanation:
 he code starts by opening a text file called "story.txt" and reading in the contents of that file into a variable called story.
 The code then loops through all the characters in the string, which is done using an enumerate function.
 For each character, if it's between target_start and target_end, then start_of-word will be set to that index value (i).
